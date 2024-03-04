@@ -1,7 +1,7 @@
 # SDF-Personal-Portfolio-Mereko-Waka
 
 ## Mereko Waka
-A business directory for the Bafokeng community
+A business directory for the Bafokeng community, a dupe of the Yellow Pages focused on the businesses within Bafokeng. With aim to contribute to the thriving economy of Bafokeng and uplift upcoming businesses, individuals and groups in showcasing the works of their works.
 
 Mereko Waka (translated from Setswana; meaning 'My Work') showcases and celebrates the diverse entrepreneurial spirit of indigenous communities in Royal Bafokeng. It supports the local economies and empowers individuals, entrepreneurs and companies, promoting sustainable businesses and unique crafts.
 This platform aims to foster connections between consumers and community businesses whilst promote economic sustainability. By promoting inclusivity, fairness, and authenticity, we build a vibrant marketplace and thriving ecosystem that honours the traditions of the Royal Bafokeng.
